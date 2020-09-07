@@ -178,6 +178,10 @@ p {
 }
 
 @media (max-width: 1028px) {
+  body {
+    padding: 3% 8%;
+  }
+  
   #title {
     text-align: center;
   }
